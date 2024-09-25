@@ -10,7 +10,6 @@ The **Learning Cloud Native Modern AI Python** sessions focus on mastering **Mod
 
 ### Instructors:
 - **Abdul Qadir Imran** - Lead Instructor, DevOps Engineer (DOE)
-- **Abdullah Iqbal** - Co-Instructor, Full-Stack Developer (FSD)
 
 ### Learning Goals:
 - Understand **Generative AI** and **Prompt Engineering** techniques
